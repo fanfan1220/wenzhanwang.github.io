@@ -29,7 +29,7 @@ This page presents selected research outputs and data projects.
 
 ### 通胀周期与债市利率
 
-这个报告总结了1970年以来的全球主要经济体通胀周期，并且通过VAR模型解构了输入型通胀对不同经济体的影响，以及不同经济体的内需拉动通胀的效能，并且分析了货币财政政策在其中的作用
+这个报告总结了1970年以来的全球主要经济体通胀周期，并且通过VAR模型解构了输入型通胀对不同经济体的影响，以及不同经济体的内需拉动通胀的效能，并且分析了货币财政政策在其中的作用。
 
 **Key themes:** Interest Rate · Inflation · US 
 
