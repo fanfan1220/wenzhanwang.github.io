@@ -66,4 +66,4 @@ This project uses NLP and machine learning methods to identify business relation
 
 ## Contact
 
-Email: wangwenzhan@uibe.edu.cnUpdate homepage content
+Email: wangwenzhan@uibe.edu.cn
