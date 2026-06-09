@@ -39,24 +39,6 @@ This page presents selected research outputs and data projects.
 
 ## Ongoing Research Projects
 
-### Environmental Disclosure and Government Procurement
-
-This project studies whether government procurement relationships affect firms' environmental disclosure quality. It uses government procurement contracts in China and firm-level environmental disclosure data to examine how political and commercial relationships shape corporate information disclosure.
-
-**Methods:** Difference-in-Differences · Firm fixed effects · Environmental disclosure measures  
-**Keywords:** Government procurement · ESG disclosure · Information quality
-
----
-
-### Strategic Silence under Green Finance Regulation
-
-This project examines how green finance policies influence firms' disclosure incentives. The analysis focuses on whether firms facing greater environmental constraints strategically reduce climate-related or environmental disclosures after regulatory shocks.
-
-**Methods:** Policy evaluation · Textual analysis · Empirical corporate finance  
-**Keywords:** Green finance · Climate disclosure · Strategic disclosure
-
----
-
 ### Business Similarity Network Using Annual Report Texts
 
 This project uses NLP and machine learning methods to identify business relationships among Chinese listed firms. Based on annual report business descriptions, it constructs text-based firm similarity measures and firm-level network indicators.
