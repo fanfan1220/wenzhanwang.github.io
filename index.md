@@ -33,7 +33,7 @@ This page presents selected research outputs and data projects.
 
 **Key themes:** Interest Rate · Inflation · US 
 
-[Download Research Report](Interest Rate.pdf)
+[Download Research Report](【研究报告】全球通胀周期与债市定价-王文湛.pdf)
 
 ---
 
@@ -66,4 +66,4 @@ This project uses NLP and machine learning methods to identify business relation
 
 ## Contact
 
-Email: wong.wenzh@gmail.com
+Email: wangwenzhan@uibe.edu.cn
