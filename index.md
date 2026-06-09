@@ -50,10 +50,11 @@ This project uses NLP and machine learning methods to identify business relation
 
 ## Data and NLP Skills
 
-- Chinese financial text analysis
-- ESG-related sentence extraction
-- Firm-level text embeddings
-- Similarity network construction
+- Python
+- Stata
+- NLP and text analysis
+- Empirical corporate finance
+- Project finance and credit analysis
 - Python / Stata / empirical research workflow
 
 ---
