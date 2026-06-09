@@ -1,3 +1,7 @@
+---
+title: Wenzhan Wang
+---
+
 # Wenzhan Wang
 
 PhD Student in Finance  
