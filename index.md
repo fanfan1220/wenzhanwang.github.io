@@ -9,7 +9,7 @@ University of International Business and Economics, Beijing
 
 I am a PhD student in Finance at the University of International Business and Economics (UIBE).  
 
-My research focuses on ESG disclosure, sustainable finance, credit risk, and machine learning applications in finance. Prior to my doctoral studies, I worked for four years in project finance and credit evaluation in China Cevelopment Bank, with experience in infrastructure and renewable energy investment projects.
+My research focuses on ESG disclosure, sustainable finance, credit risk, and machine learning applications in finance. Prior to my doctoral studies, I worked for four years in project finance and credit evaluation in China Development Bank, with experience in infrastructure and renewable energy investment projects.
 
 This page presents selected research outputs and data projects.
 
